@@ -20,5 +20,5 @@ class Matematica {
     }
 }
 
-var n1 = 'sdfsdf';
+var n1: string = 'sdfsdf';
 n1 = 4;
